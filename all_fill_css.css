@@ -1,0 +1,14 @@
+img {
+    border-radius: 20%;
+  }
+  .box{
+    border-radius: 10px;
+    background-color: orange;
+    border:2px solid black;
+  }
+  /* .back{
+    background-color:gray;
+  } */
+  .risponsive{
+    flex-flow: row;
+  }
